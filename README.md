@@ -5,4 +5,5 @@ This is a reporsitory that collected my capstone project for Fresh Graduate Acad
 There are three project that I submit for that program, which are:
 1. Email Text Classification by Natural Language Processing
 2. Forecasting Temperature by Data Time Series
-3. Image classification with transfer learning on ResNet152V2 model dan CNN (Convolutional Neural Network) layer
+3. Image classification with transfer learning on ResNet152V2 model dan CNN (Convolutional Neural Network) layer <br>
+   Result: 93,5% accuracy for data training, and 92,7% accuracy for data validation.
