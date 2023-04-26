@@ -5,4 +5,4 @@ This is a reporsitory that collected my capstone project for Fresh Graduate Acad
 There are three project that I submit for that program, which are:
 1. Email Text Classification by Natural Language Processing
 2. Forecasting Temperature by Data Time Series
-3. Image classification
+3. Image classification dengan transfer learning model ResNet152V2 dan layer CNN (Convolutional Neural Network)
