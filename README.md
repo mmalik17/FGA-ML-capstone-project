@@ -1,4 +1,4 @@
-# FGA-ML-capstone-project
+# Projects Overview
 
 This is a reporsitory that collected my capstone project for Fresh Graduate Academy (FGA) Machine Learning program. FGA program is the seven-weeks training from Digital Talent Scholarship Kemenkominfo to prepare the knowledge and skill for digital talent. Capstone project submission is a mandatory for finishing that program. 
 
