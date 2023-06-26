@@ -2,7 +2,7 @@
 
 This is a reporsitory that collected my capstone project for Fresh Graduate Academy - Machine Learning (FGA-ML) program. This program is the seven-weeks training from Digital Talent Scholarship Kemenkominfo to prepare the knowledge and skill for digital talent. Capstone project submission is a mandatory for finishing that program. 
 
-There are three project that I submit for that program, which are:
+There are three capstone projects that I submit for this program, which are:
 1. Email Text Classification by <b> Natural Language Processing (NLP) </b> <br>
    Result: 95.5% accuracy for data training and 93.9% accuracy for data validation.
 2. Forecasting Temperature by <b> Data Time Series </b> <br>
